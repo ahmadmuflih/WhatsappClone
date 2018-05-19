@@ -26,14 +26,19 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.a4nesia.whatsappclone.MainActivity"
-            android:label="@string/profile_title" >
-        </activity>
-        <activity android:name="com.a4nesia.whatsappclone.LoginActivity" >
+            android:label="@string/profile_title" />
+        <activity
+            android:name="com.a4nesia.whatsappclone.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.a4nesia.whatsappclone.ContactActivity"
+            android:label="@string/title_activity_contact" >
         </activity>
 
         <provider

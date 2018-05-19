@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_contacts.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/abc_btn_borderless_material.xml"
     },
@@ -12,12 +16,20 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_contacts.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_contacts.xml"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-v21_avd_hide_password.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4006ed17d9f604d6b4958c79ae882b8a/res/drawable-v21/avd_hide_password.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-xhdpi/ic_drawer.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
@@ -46,6 +58,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_dialog_add_contact.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/layout/dialog_add_contact.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -152,12 +168,20 @@
         "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable/backround_circle.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_contacts.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a945117eb767e7692dfb35d0aa313943/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_contacts.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -178,6 +202,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4006ed17d9f604d6b4958c79ae882b8a/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -276,6 +304,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/menu_menu_profile.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/menu/menu_profile.xml"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
@@ -360,6 +392,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/anim/abc_slide_out_bottom.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/layout/abc_select_dialog_material.xml"
     },
@@ -374,6 +410,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_dialog_edit_name.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/layout/dialog_edit_name.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -520,12 +560,12 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
@@ -604,6 +644,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4006ed17d9f604d6b4958c79ae882b8a/res/drawable-xhdpi-v4/design_ic_visibility_off.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -614,6 +658,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/menu_menu_contact.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/menu/menu_contact.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -744,6 +792,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
@@ -810,6 +862,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-xxhdpi/drawer_shadow.9.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
@@ -908,8 +964,16 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_activity_contact.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/layout/activity_contact.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -950,6 +1014,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a945117eb767e7692dfb35d0aa313943/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
@@ -1002,6 +1070,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
         "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_search.xml"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
@@ -1108,6 +1180,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_contacts.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
         "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/layout/activity_main.xml"
     },
@@ -1144,6 +1220,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
@@ -1154,6 +1234,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_design_ic_visibility.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4006ed17d9f604d6b4958c79ae882b8a/res/drawable-xhdpi-v4/design_ic_visibility.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_camera.png.flat",
@@ -1400,6 +1484,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/4006ed17d9f604d6b4958c79ae882b8a/res/drawable/design_fab_background.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_edit.png.flat",
         "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-mdpi/ic_edit.png"
     },
@@ -1426,6 +1514,14 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
@@ -1492,6 +1588,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -1544,6 +1644,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/abc_edit_text_material.xml"
     },
@@ -1554,6 +1658,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-ldpi/ic_contacts.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -1628,6 +1736,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/anim/abc_fade_in.xml"
     },
@@ -1674,6 +1786,10 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-hdpi/drawer_shadow.9.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1792,6 +1908,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search.png"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -1816,6 +1936,10 @@
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/abc_tab_indicator_material.xml"
     },
     {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person.xml"
+    },
+    {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable_tooltip_frame_dark.xml.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable/tooltip_frame_dark.xml"
     },
@@ -1826,6 +1950,14 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_contacts.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_contacts.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/src/main/res/drawable-mdpi/ic_drawer.png"
     },
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
@@ -1878,5 +2010,9 @@
     {
         "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/Users/user/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6a504d64d56be2e6524756e7b0dc43ce/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/WhatsappClone/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
     }
 ]
